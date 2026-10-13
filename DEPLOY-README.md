@@ -15,7 +15,7 @@ The client does **not** need separate deployments for the website and control pa
 
 The repository owner can either invite the client as a GitHub collaborator or transfer the repository to the client's GitHub account.
 
-Repository: `https://github.com/rishigauthaman/ishaa`
+Repository: `https://github.com/rishigauthaman/ishawebsite`
 
 ### 2. Import the repository into Netlify
 
